@@ -1,0 +1,9 @@
+[Fri Jul 17 06:19:17.287862 2020] [access_compat:error] [pid 7589] [client 10.0.2.7:40638] AH01797: client denied by server configuration: /var/www/html/whmcs/vendor/composer/LICENSE
+[Fri Jul 17 06:19:47.861077 2020] [access_compat:error] [pid 7907] [client 10.0.1.49:51112] AH01797: client denied by server configuration: /var/www/html/whmcs/vendor/composer/LICENSE
+[Fri Jul 17 06:35:17.472327 2020] [access_compat:error] [pid 7591] [client 10.0.2.7:41124] AH01797: client denied by server configuration: /var/www/html/whmcs/vendor/
+[Fri Jul 17 08:16:41.919811 2020] [cgi:error] [pid 7590] [client 1.61.0.213:53545] AH02811: script not found or unable to stat: /var/www/cgi-bin/kerbynet
+[Fri Jul 17 09:05:42.967636 2020] [access_compat:error] [pid 7591] [client 10.0.2.7:45838] AH01797: client denied by server configuration: /var/www/html/whmcs/vendor/whmcs/whmcs-foundation/, referer: http://helpdesk.keplerworx.com/vendor/whmcs/
+[Fri Jul 17 09:39:01.188252 2020] [cgi:error] [pid 8615] [client 31.182.202.47:57351] AH02811: script not found or unable to stat: /var/www/cgi-bin/kerbynet
+[Fri Jul 17 09:39:10.092561 2020] [cgi:error] [pid 7907] [client 31.182.202.47:32871] AH02811: script not found or unable to stat: /var/www/cgi-bin/kerbynet
+[Fri Jul 17 09:40:42.468701 2020] [cgi:error] [pid 7589] [client 31.182.202.47:19816] AH02811: script not found or unable to stat: /var/www/cgi-bin/kerbynet
+[Fri Jul 17 09:40:45.121551 2020] [cgi:error] [pid 7634] [client 31.182.202.47:31722] AH02811: script not found or unable to stat: /var/www/cgi-bin/kerbynet
